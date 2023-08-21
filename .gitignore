@@ -24,6 +24,7 @@ chrome-user-data
 *.swp
 *.swo
 
+dist
 package-lock.json
 
 packages/react-devtools-core/dist
